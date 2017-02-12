@@ -2,7 +2,6 @@
 
 A list of microservices references that we actualy tested or used here at [dotzlabs](http://dotzlabs.com).
 
-
 ## Containers
 
 - [CoreOS](https://coreos.com/) - Open source lightweight operating system based on the Linux kernel and designed for providing infrastructure to clustered deployments.
